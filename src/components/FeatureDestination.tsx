@@ -11,7 +11,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Clock, Star } from 'lucide-react'
-import '../Components/Css/reactSlick.css'
+import '../components/Css/reactSlick.css'
 
 const SlickArrowLeft: React.FC<CustomArrowProps> = ({
   currentSlide,
